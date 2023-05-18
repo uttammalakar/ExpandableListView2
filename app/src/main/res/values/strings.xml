@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Expandable ListView</string>
+
+    <string-array name="countryName">
+
+        <item> bangladesh</item>
+        <item> ind</item>
+        <item> pak</item>
+        <item> sri</item>
+        <item> usa</item>
+
+
+
+    </string-array>
+
+    <string-array name="countryDetails">
+
+        <item> bangladesh is my mother land</item>
+        <item> ind</item>
+        <item> bangladesh isjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj my pak land</item>
+        <item> bangladesh is sri mother land</item>
+        <item> bangladesh is sri usa land</item>
+
+    </string-array>
+</resources>
